@@ -1,6 +1,6 @@
-scripts.js<head>
+ <head>
    <meta charset="utf-8">
-   <title>Nick Gutierrez - Portfolio</title>
+   <title>Taniya Campbell- Portfolio</title>
 -  <link type="text/css" rel="stylesheet" href="stylesheets/normalize.css">
 +  <link type="text/css" rel="stylesheet" href="stylesheets/normalize.css"> 
 +    <!--The link above called "normalize" goes to a CSS page that reset all of the browser defaults. Needs to be on Every Page-->
@@ -236,4 +236,4 @@ View 104  stylesheets/style.css
 +Color 1:
 +
 +***********************************/
-
++
